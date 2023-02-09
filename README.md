@@ -16,11 +16,16 @@ This projects inspiration was the need to organize a company's employee data.
 
 ## Installation
 
-To install this project clone the github repository.
+To install this project clone the github repository. You will also need to install, mysql2, inquirer and console.table using the command line.
 
 ## Usage
 
-
+To use this app first create a .env file and enter your mysql account credentials.
+In terminal run mysql -u <mysql username here> -p
+Then run SOURCE db/db.sql
+Then run SOURCE db/schema.sql
+In a new terminal run node index.js
+Follow the command line prompts
 
 ## Screenshot
 
@@ -28,7 +33,7 @@ To install this project clone the github repository.
 
 ## Video
 
-
+https://drive.google.com/file/d/18TXY_IHjhfKq4OuwLB9yyh_ngDGS5EWq/view
 
 ## License
 
