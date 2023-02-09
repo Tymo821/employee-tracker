@@ -37,8 +37,8 @@ async function init() {
                 viewAllDepartments();
                 break;
             case "View all roles":
-            viewAllRoles();
-            break;
+                viewAllRoles();
+                break;
             case "View all employees":
                 viewAllEmployees();
                 break;
