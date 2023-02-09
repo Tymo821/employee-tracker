@@ -1,0 +1,29 @@
+{
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "description": "This is a project built to help organize a company's employee information.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tymo821/employee-tracker.git"
+  },
+  "keywords": [
+    "employee",
+    "tracker"
+  ],
+  "author": "Tyler Moore, Georgia Tech TA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tymo821/employee-tracker/issues"
+  },
+  "homepage": "https://github.com/Tymo821/employee-tracker#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "dotenv": "^16.0.3",
+    "inquirer": "^8.2.4",
+    "mysql2": "^3.1.2"
+  }
+}
