@@ -29,6 +29,9 @@ Follow the command line prompts
 
 ## Screenshot
 
+![Screenshot 2023-02-08 at 10 01 32 PM](https://user-images.githubusercontent.com/93955240/217707104-dc25b659-a2a6-4bda-9b3c-e0090248af59.png)
+![Screenshot 2023-02-08 at 10 01 51 PM](https://user-images.githubusercontent.com/93955240/217707150-24d1651e-21c6-431e-b063-2e006e151e3e.png)
+
 
 
 ## Video
